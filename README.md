@@ -1,5 +1,5 @@
-### Holaa! Soy Miguel Guell 👋
 
+<h2 align="center">Hola! Yo soy Miguel Guell 👋</h2>
 <div align="center">
   <a href="https://github.com/MiguelGDD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
