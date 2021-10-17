@@ -10,7 +10,7 @@
   </div>
   <br><br><br><br><br><br><br><br>
   
-  ## <div align="center"> Mis Skills ✨
+  ## <div align="center"> Lenguajes ✨
   <div align="center"><br>
   <img alt="Miguel-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
