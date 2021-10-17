@@ -5,7 +5,7 @@
   <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
     <a href="https://github.com/MiguelGDD/github-readme-stats">
-      <img align="right" width=473 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGDD&layout=compact&&theme=tokyonight"/>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGDD&layout=compact&&theme=tokyonight"/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
