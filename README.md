@@ -2,11 +2,16 @@
 <h2 align="center">Hola! Yo soy Miguel Guell 👋</h2>
 <div align="center">
   <a href="https://github.com/MiguelGDD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
+  <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+    <a href="https://github.com/MiguelGDD/github-readme-stats">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGDD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br>
   
- 
+  ##
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
