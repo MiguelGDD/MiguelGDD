@@ -1,5 +1,5 @@
 ###
-<h2 align="center">Hola! Yo soy Miguel <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h2>
+<h2 align="center">Hi! I'm Miguel <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h2>
 <div align="center">
   <a href="https://github.com/MiguelGDD">
   <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
