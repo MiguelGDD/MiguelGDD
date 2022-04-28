@@ -4,7 +4,7 @@
 <img src="https://i.postimg.cc/bwgf86tc/Navy-Modern-Group-Project-Presentation.gif" width="1000px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- <h2 align="center"></h2>
+ <h2 align="center">Stats 📈</h2>
 <div align="center">
   <a href="https://github.com/MiguelGDD">
   <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=MiguelGDD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
