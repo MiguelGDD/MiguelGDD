@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/guelldiazm"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=guelldiazm" alt="LinkedIn"></a>
-  <a href="https://github.com/MiguelGDD"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/[TU GITHUB]" alt="GitHub"></a>
 </p>
 
 ## 👨‍💻 About Me
